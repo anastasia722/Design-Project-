@@ -1,0 +1,407 @@
+* {
+    box-sizing: border-box;
+    margin: 0.5px;
+    padding: 0;
+    letter-spacing: 0.5px;
+}
+h1 {
+    position: relative;
+    left: 32%;
+}
+ul {
+    position: absolute;
+    top: 50px;
+    left: 20%;
+}
+#img1 {
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+#p1 {
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+#img2 {
+    position: relative;
+    top:-135px;
+    left:33%;
+}
+#p2 {
+        position: relative;
+        top: -133px;
+        left: 33%;
+    }
+#img3 {
+    position: relative;
+    top:-380px;
+    left:46%;
+}
+#p3 {
+    position: relative;
+    top: -380px;
+    left: 46%;
+}
+#img4 {
+    position: relative;
+    top:-625px;
+    left:59%;
+}
+#p4 {
+    position: relative;
+    top: -625px;
+    left: 59%;
+}
+#img5 {
+    position: relative;
+    top:-870px;
+    left:72%;
+}
+#p5 {
+    position: relative;
+    top: -870px;
+    left: 72%;
+}
+#p6 {position: relative;
+    top: -800px;
+    left: 20%; 
+    font-size: 30px;
+        height: 250px;
+        width: 350px;
+        border: 7px solid black;
+        display: inline-block;
+        background-size: 250px 350px;
+        padding: 0px;
+        margin: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        text-align: center;
+        color: black;
+}
+.img6 {
+    position:relative;
+    top:500px;
+    left:50%;
+}
+#h1 {
+    position: relative;
+    top: 15px;
+    left: 37%;
+}
+#h2 {
+    position: relative;
+    top: -740px;
+    left: 23%;
+}
+#name {
+    position: relative;
+    top:110px;
+    left:15%;
+}
+#email {
+    position: relative;
+    top:115px;
+    left:15%;
+}
+#number {
+    position: relative;
+    top:125px;
+    left:15%;
+}
+#date {
+    position: relative;
+    top:135px;
+    left:15%;
+}
+#h4 {
+    position: relative;
+    top:100px;
+    left:15%;
+}
+#h5 {
+    position: relative;
+    top: 90px;
+    left: 15%;
+}
+#p8 {
+    position: relative;
+    top: 100px;
+    left: 15%;
+        height: 150px;
+        width: 750px;
+        border: 7px solid black;
+        display: inline-block;
+        background-size: 250px 350px;
+        padding: 0px;
+        margin: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        text-align: center;
+        color: black;
+}
+#h6 {
+    position: relative;
+    top: 25px;
+    left: 45%;
+}
+body {
+background-color: white;
+}
+table {
+background-color:lavenderblush;
+border-collapse: collapse;
+width: 25em;
+border-radius: 10px;
+margin: 25px auto;
+box-shadow: 4px 5px 1px 3px (160, 222, 243);
+position: relative;
+top: 100px;
+}
+thead tr { 
+border-bottom: 3px solid black; 
+}
+tfoot tr {
+border-top: 3px solid black;
+}
+table thead tr td {
+font-size: 16px;
+letter-spacing: 1px;
+color: black;
+padding: 8px;
+}
+table tfoot tr td {
+font-size: 18px;
+letter-spacing: 1px;
+color: black;
+padding: 8px;
+}
+table tbody tr td {
+padding: 8px;
+}
+table tbody span {
+font: 12px;
+color: black;
+}
+table thead tr td:nth-last-child(1) {
+text-align: right;
+}
+table tbody tr td:nth-last-child(1) {
+text-align: right;
+}
+#img6{
+    position: relative;
+    top: -720px;
+    left: 30%;
+}
+#h7 {
+    position: relative;
+    top: -790px;
+    left: 20%;
+}
+#p7 {
+    position: relative;
+    top: -790px;
+    left: 18%;
+    height: 150px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#h8 {
+    position: relative;
+    top: -658px;
+    left: 19%;
+}
+#p18{
+    position: relative;
+    top: -658px;
+    left: 18%;
+    height: 150px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+
+}
+#h9 {
+    position: relative;
+    top: -990px;
+    left: 20%;
+}
+#p9 {
+    position: relative;
+    top: -990px;
+    left: 18%;
+    height: 100px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#h10 {
+    position: relative;
+    top:-1330px ;
+    left: 52%;
+}
+#p10 {
+    position: relative;
+    top: -1330px;
+    left: 50%;
+    height: 200px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#h11 {
+    position: relative;
+    top: -1340px;
+    left: 52%;
+}
+#p11 {
+    position: relative;
+    top: -1340px;
+    left: 50%;
+    height: 120px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#h12 {
+    position: relative;
+    top:100px ;
+    left: 35%;
+}
+#p12 {
+    position: relative;
+    top: 110px;
+    left: 20%;
+    font-size: 30px;
+        height: 250px;
+        width: 350px;
+        border: 7px solid black;
+        display: inline-block;
+        background-size: 250px 350px;
+        padding: 0px;
+        margin: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        text-align: center;
+        color: black;
+}
+#p13 {position: relative;
+top: -70px;
+left: 20%;
+font-size: 30px;
+    height: 90px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;}
+#p14 {
+position: relative;
+top: 100px;
+left: -11%;
+font-size: 30px;
+    height: 120px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    }
+#p15 {
+    position: relative;
+    top: 100px;
+    left: 20%;
+    font-size: 30px;
+    height: 300px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#p16 {
+    position: relative;
+    top: 117px;
+    left: 20%;
+    font-size: 30px;
+    height: 305px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+#p17 {
+    position: relative;
+    top: 50px;
+    left: 34%;
+    font-size: 30px;
+    height: 150px;
+    width: 350px;
+    border: 7px solid black;
+    display: inline-block;
+    background-size: 250px 350px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
